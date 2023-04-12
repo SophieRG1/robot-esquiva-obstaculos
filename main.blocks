@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="n[Gg{W(nOn2s/ws[U_jt">ultrasonico</variable></variables><block type="device_forever" id="{/NsW~kc?WTDmHAr*|8#" x="0" y="0"><statement name="HANDLER"><block type="variables_set" id="XUwk;NpY^}JVzCi6m/;R"><field name="VAR" id="n[Gg{W(nOn2s/ws[U_jt">ultrasonico</field></block></statement></block></xml>
